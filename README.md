@@ -1,1 +1,1 @@
-# victoire-pisa-ai-companion.
+# victoire-pisa-ai-companion
